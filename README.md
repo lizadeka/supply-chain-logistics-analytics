@@ -131,18 +131,18 @@ This project was completed in collaboration with Shubh Srivastava. We jointly wo
 This project was completed through a collaborative workflow, with responsibilities divided across different project modules while working together on the overall solution.
 
 Work Distribution
-✅ Processed and analyzed 500,000+ logistics records
-✅ Integrated 14 relational database tables using PostgreSQL (Neon)
-✅ Cleaned and prepared the project datasets
-✅ Designed and developed 5 interactive Power BI dashboard pages
-✅ Developed SQL queries, DAX measures, and Power BI visualizations
-✅ Generated business insights and actionable recommendations
-✅ Prepared the final technical report and project documentation jointly
-✅ Performed dashboard testing, validation, and quality review together
+- ✅ Processed and analyzed 500,000+ logistics records
+- ✅ Integrated 14 relational database tables using PostgreSQL (Neon)
+- ✅ Cleaned and prepared the project datasets
+- ✅ Designed and developed 5 interactive Power BI dashboard pages
+- ✅ Developed SQL queries, DAX measures, and Power BI visualizations
+- ✅ Generated business insights and actionable recommendations
+- ✅ Prepared the final technical report and project documentation jointly
+- ✅ Performed dashboard testing, validation, and quality review together
 
-# 👩‍💻 My Contribution
+### 👩‍💻 My Contribution
 
-As part of this collaborative project, I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
+I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
 
 ---
 
