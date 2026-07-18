@@ -72,42 +72,6 @@ The relational structure enables integrated analysis across multiple operational
 
 ---
 
-# 👩‍💻 My Contribution
-
-As part of this collaborative project, I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
-
-My responsibilities included:
-
-* Writing SQL queries to extract, aggregate, and analyze logistics data.
-* Creating DAX measures and KPIs to support business reporting.
-* Designing and developing interactive Power BI dashboards with slicers and business-focused visualizations.
-* Building charts to analyze customer performance, transportation routes, fleet operations, maintenance, and fuel expenditure.
-* Interpreting dashboard findings and preparing business insights based on the analysis.
-* Developing actionable business recommendations to support operational and strategic decision-making.
-* Preparing SQL implementation documentation for each visualization.
-* Contributing to the project report, including dashboard documentation and analytical findings.
-
----
-
-# 📈 Key DAX Measures
-
-Some of the measures I created during this project include:
-
-* Total Revenue
-* Gross Profit
-* Total Operating Cost
-* Average Revenue per Customer
-* Average Revenue per Load
-* Total Fleet Assets
-* Active Fleet Assets
-* Fleet Assets in Maintenance
-* Total Fuel Cost
-* Total Maintenance Cost
-* Fuel Cost % of Revenue
-* Maintenance Cost % of Revenue
-
----
-
 # 💡 Business Insights
 
 The dashboards help answer key business questions such as:
@@ -175,3 +139,26 @@ Work Distribution
 ✅ Generated business insights and actionable recommendations
 ✅ Prepared the final technical report and project documentation jointly
 ✅ Performed dashboard testing, validation, and quality review together
+
+# 👩‍💻 My Contribution
+
+As part of this collaborative project, I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
+
+---
+
+# 📈 Key DAX Measures
+
+Some of the measures I created during this project include:
+
+* Total Revenue
+* Gross Profit
+* Total Operating Cost
+* Average Revenue per Customer
+* Average Revenue per Load
+* Total Fleet Assets
+* Active Fleet Assets
+* Fleet Assets in Maintenance
+* Total Fuel Cost
+* Total Maintenance Cost
+* Fuel Cost % of Revenue
+* Maintenance Cost % of Revenue
