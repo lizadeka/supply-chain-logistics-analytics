@@ -86,7 +86,7 @@ My responsibilities included:
 
 # 📈 Key DAX Measures
 
-Some of the measures created during this project include:
+Some of the measures I created during this project include:
 
 * Total Revenue
 * Gross Profit
