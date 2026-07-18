@@ -59,11 +59,11 @@ The relational structure enables integrated analysis across multiple operational
 
 ## The dashboard is organized into five business-focused analytical pages:
 
-Executive Overview – Monitors overall business performance using revenue, profit, and operating cost KPIs.
-Customer & Route Performance – Analyzes customer profitability, freight categories, and transportation routes.
-Fleet Management – Tracks fleet assets, maintenance, downtime, and fuel expenditure.
-Driver Operations – Evaluates driver productivity and operational performance.
-Delivery & Safety Operations – Monitors delivery efficiency, safety incidents, and service performance.
+* Executive Overview – Monitors overall business performance using revenue, profit, and operating cost KPIs.
+* Customer & Route Performance – Analyzes customer profitability, freight categories, and transportation routes.
+* Fleet Management – Tracks fleet assets, maintenance, downtime, and fuel expenditure.
+* Driver Operations – Evaluates driver productivity and operational performance.
+* Delivery & Safety Operations – Monitors delivery efficiency, safety incidents, and service performance.
 
 ---
 
