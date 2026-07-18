@@ -168,5 +168,3 @@ The dashboards help answer key business questions such as:
 ## 👤 Author
 
 **Liza Deka**
-
-If you have any feedback, suggestions, or would like to connect, feel free to reach out. I'm always happy to discuss data analytics, SQL, and Power BI projects.
