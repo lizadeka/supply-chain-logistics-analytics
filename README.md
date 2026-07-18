@@ -123,10 +123,12 @@ The dashboards help answer key business questions such as:
 📂 supply_chain_logistics_analytics
 │
 ├── Dashboard/
-│   ├── Logistics Dashboard.pbix
+│   ├──Supply_chain_logistics.pbix
 │
 ├── SQL/
-│   ├── SQL Queries.sql
+│   ├── Executive Overview.sql
+|   ├── Customer & Route performance.sql
+|   ├── Fleet Management.sql
 │
 ├── Report/
 │   ├── Project Report.pdf
