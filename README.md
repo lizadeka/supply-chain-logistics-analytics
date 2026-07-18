@@ -1,6 +1,6 @@
 # 🚛 Supply Chain & Logistics Analytics Dashboard
 
-👥 A Collaborative Project by Liza Deka & Shubh Srivastava
+## 👥 A Collaborative Project by Liza Deka & Shubh Srivastava
 
 An end-to-end Business Intelligence project that analyzes logistics operations using **SQL (PostgreSQL on Neon)** and **Microsoft Power BI**. The project analyzes 500,000+ logistics records across 14 interconnected relational tables to transform raw logistics data into interactive dashboards that provide actionable insights into revenue, customer performance, fleet operations, driver performance, and delivery efficiency.
 
@@ -8,9 +8,12 @@ An end-to-end Business Intelligence project that analyzes logistics operations u
 
 ## 📖 Project Overview
 
-Efficient logistics operations rely on data-driven decision-making. This project demonstrates how operational data can be transformed into meaningful business insights through SQL analysis and interactive Power BI dashboards.
+Supply chain and logistics organizations generate large volumes of operational data every day. Converting this data into meaningful insights is essential for improving operational efficiency, controlling costs, optimizing fleet performance, and supporting strategic business decisions.
 
-The project was completed as a **collaborative team project**, where dashboard development and documentation responsibilities were shared between two members. In addition to building the dashboards, the project also involved writing SQL queries, preparing SQL implementations for individual visualizations, deriving business insights from the analysis, and providing actionable business recommendations for each dashboard page.
+This project demonstrates an end-to-end Business Intelligence workflow by integrating logistics data into PostgreSQL (Neon), performing SQL-based analysis, and developing interactive dashboards in Microsoft Power BI.
+
+The project analyzes 500,000+ logistics records across 14 interconnected relational tables, covering customers, transportation routes, fleet assets, trips, fuel purchases, maintenance records, deliveries, and safety operations.
+The final solution consists of five interactive dashboard pages that enable business users to monitor KPIs, identify operational trends, evaluate performance across different business functions, and make data-driven decisions through interactive visualizations.
 
 ---
 
