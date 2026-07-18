@@ -57,75 +57,13 @@ The relational structure enables integrated analysis across multiple operational
 
 # 📊 Dashboard Pages
 
-## 1. Executive Overview
+## The dashboard is organized into five business-focused analytical pages:
 
-Provides a high-level summary of business performance.
-
-### KPIs
-
-* Total Revenue
-* Gross Profit
-* Total Operating Cost
-* Fuel Cost % of Revenue
-* Maintenance Cost % of Revenue
-
-### Visual
-
-* Quarterly Revenue vs Operating Cost Trend
-
----
-
-## 2. Customer & Route Performance *(My Contribution)*
-
-Analyzes customer profitability and transportation route performance.
-
-### KPIs
-
-* Total Customers
-* Total Loads
-* Total Routes
-* Average Revenue per Customer
-* Average Revenue per Load
-
-### Visualizations
-
-* Top 10 Customers by Revenue
-* Revenue Distribution by Freight Type
-* Top Revenue-Generating Routes
-* Most Frequently Used Routes
-
----
-
-## 3. Fleet Management *(My Contribution)*
-
-Provides insights into fleet utilization, maintenance, and operating expenses.
-
-### KPIs
-
-* Total Fleet Assets
-* Active Fleet Assets
-* Fleet Assets in Maintenance
-* Total Fuel Cost
-* Total Maintenance Cost
-
-### Visualizations
-
-* Maintenance Cost by Truck Make
-* Downtime by Maintenance Type
-* Quarterly Fuel Spending Trend
-* Fleet Composition by Model Year
-
----
-
-## 4. Driver Operations
-
-Monitors driver productivity and operational performance.
-
----
-
-## 5. Delivery & Safety Operations
-
-Evaluates delivery efficiency and safety performance.
+Executive Overview – Monitors overall business performance using revenue, profit, and operating cost KPIs.
+Customer & Route Performance – Analyzes customer profitability, freight categories, and transportation routes.
+Fleet Management – Tracks fleet assets, maintenance, downtime, and fuel expenditure.
+Driver Operations – Evaluates driver productivity and operational performance.
+Delivery & Safety Operations – Monitors delivery efficiency, safety incidents, and service performance.
 
 ---
 
