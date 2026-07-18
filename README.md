@@ -154,7 +154,11 @@ The dashboards help answer key business questions such as:
 
 # 📷 Dashboard Preview
 
-*Dashboard screenshots and a walkthrough video are available in this repository.*
+<img width="1907" height="771" alt="image" src="https://github.com/user-attachments/assets/684d868e-0cba-4450-b03c-17121423961c" />
+<img width="1917" height="780" alt="image" src="https://github.com/user-attachments/assets/af9bcb49-4f34-4fc1-a838-cfb7ca4f61f0" />
+<img width="1917" height="791" alt="image" src="https://github.com/user-attachments/assets/58111086-154b-4eb2-8e40-18303f839194" />
+<img width="1917" height="785" alt="image" src="https://github.com/user-attachments/assets/a656b29d-95ab-4acd-8f7a-c9c26b9e6a62" />
+<img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/00314502-23d2-460d-af98-201681c68efe" />
 
 ---
 
