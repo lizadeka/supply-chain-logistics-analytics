@@ -162,9 +162,3 @@ The dashboards help answer key business questions such as:
 <img width="1917" height="791" alt="image" src="https://github.com/user-attachments/assets/58111086-154b-4eb2-8e40-18303f839194" />
 <img width="1917" height="785" alt="image" src="https://github.com/user-attachments/assets/a656b29d-95ab-4acd-8f7a-c9c26b9e6a62" />
 <img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/00314502-23d2-460d-af98-201681c68efe" />
-
----
-
-## 👤 Author
-
-**Liza Deka**
