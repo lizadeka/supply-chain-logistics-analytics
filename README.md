@@ -1,6 +1,8 @@
 # 🚛 Supply Chain & Logistics Analytics Dashboard
 
-An end-to-end Business Intelligence project that analyzes logistics operations using **SQL (PostgreSQL on Neon)** and **Microsoft Power BI**. The project transforms raw logistics data into interactive dashboards that provide actionable insights into revenue, customer performance, fleet operations, driver performance, and delivery efficiency.
+👥 A Collaborative Project by Liza Deka & Shubh Srivastava
+
+An end-to-end Business Intelligence project that analyzes logistics operations using **SQL (PostgreSQL on Neon)** and **Microsoft Power BI**. The project analyzes 500,000+ logistics records across 14 interconnected relational tables to transform raw logistics data into interactive dashboards that provide actionable insights into revenue, customer performance, fleet operations, driver performance, and delivery efficiency.
 
 ---
 
