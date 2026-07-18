@@ -8,7 +8,7 @@ An end-to-end Business Intelligence project that analyzes logistics operations u
 
 Efficient logistics operations rely on data-driven decision-making. This project demonstrates how operational data can be transformed into meaningful business insights through SQL analysis and interactive Power BI dashboards.
 
-The project was completed as a **collaborative team project**, where dashboard development and documentation responsibilities were shared between two members.
+The project was completed as a **collaborative team project**, where dashboard development and documentation responsibilities were shared between two members. In addition to building the dashboards, the project also involved writing SQL queries, preparing SQL implementations for individual visualizations, deriving business insights from the analysis, and providing actionable business recommendations for each dashboard page.
 
 ---
 
@@ -69,17 +69,18 @@ The relational structure enables integrated analysis across multiple operational
 
 # 👩‍💻 My Contribution
 
-I was responsible for developing the **Customer & Route Performance** and **Fleet Management** dashboards, while also contributing to the **Executive Overview**.
+As part of this collaborative project, I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
 
 My responsibilities included:
 
-* Writing SQL queries for business analysis
-* Creating DAX measures and KPIs
-* Building interactive Power BI dashboards
-* Designing visualizations and slicers
-* Developing business insights from analytical findings
-* Preparing business recommendations
-* Documenting SQL implementation and project report
+* Writing SQL queries to extract, aggregate, and analyze logistics data.
+* Creating DAX measures and KPIs to support business reporting.
+* Designing and developing interactive Power BI dashboards with slicers and business-focused visualizations.
+* Building charts to analyze customer performance, transportation routes, fleet operations, maintenance, and fuel expenditure.
+* Interpreting dashboard findings and preparing business insights based on the analysis.
+* Developing actionable business recommendations to support operational and strategic decision-making.
+* Preparing SQL implementation documentation for each visualization.
+* Contributing to the project report, including dashboard documentation and analytical findings.
 
 ---
 
