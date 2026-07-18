@@ -163,3 +163,15 @@ The dashboards help answer key business questions such as:
 # 👥 Collaboration
 
 This project was completed in collaboration with Shubh Srivastava. We jointly worked on database preparation, SQL analysis, dashboard development, validation of business insights, and project documentation while taking ownership of different dashboard modules.
+
+This project was completed through a collaborative workflow, with responsibilities divided across different project modules while working together on the overall solution.
+
+Work Distribution
+✅ Processed and analyzed 500,000+ logistics records
+✅ Integrated 14 relational database tables using PostgreSQL (Neon)
+✅ Cleaned and prepared the project datasets
+✅ Designed and developed 5 interactive Power BI dashboard pages
+✅ Developed SQL queries, DAX measures, and Power BI visualizations
+✅ Generated business insights and actionable recommendations
+✅ Prepared the final technical report and project documentation jointly
+✅ Performed dashboard testing, validation, and quality review together
