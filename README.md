@@ -145,13 +145,16 @@ The dashboards help answer key business questions such as:
 
 ---
 
-# 🚀 Future Enhancements
-
-* Real-time dashboard integration
-* Predictive maintenance analytics
-* Route optimization using machine learning
-* Fuel consumption forecasting
-* Automated KPI alerts
+# 💡 Key Features
+- Interactive Power BI dashboards
+- 25+ business KPIs
+- SQL-driven business analysis
+- Customer and route profitability analysis
+- Fleet utilization and maintenance monitoring
+- Fuel expenditure analysis
+- Driver performance monitoring
+- Delivery and safety analytics
+- Dynamic filtering and drill-down analysis
 
 ---
 
@@ -162,3 +165,17 @@ The dashboards help answer key business questions such as:
 <img width="1917" height="791" alt="image" src="https://github.com/user-attachments/assets/58111086-154b-4eb2-8e40-18303f839194" />
 <img width="1917" height="785" alt="image" src="https://github.com/user-attachments/assets/a656b29d-95ab-4acd-8f7a-c9c26b9e6a62" />
 <img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/00314502-23d2-460d-af98-201681c68efe" />
+
+---
+
+# 🚀 Future Improvements
+Publish the dashboard using Power BI Service.
+Add an Entity Relationship (ER) Diagram.
+Optimize SQL queries for better performance.
+Expand KPI analysis.
+Integrate real-time data sources.
+Develop predictive analytics for fleet maintenance and route optimization.
+
+# 👥 Collaboration
+
+This project was completed in collaboration with Shubh Srivastava. We jointly worked on database preparation, SQL analysis, dashboard development, validation of business insights, and project documentation while taking ownership of different dashboard modules.
