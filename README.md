@@ -71,16 +71,36 @@ The relational structure enables integrated analysis across multiple operational
 ---
 
 # 💡 Business Insights
+The dashboard enables stakeholders to monitor operational performance and answer key business questions across different areas of the logistics business, including:
 
-The dashboards help answer key business questions such as:
+## 📈 Executive Overview
+- Monitor overall business performance through revenue, operating cost, and gross profit KPIs.
+- Track cost efficiency using fuel and maintenance costs as a percentage of revenue.
+- Evaluate quarterly financial performance to identify growth trends and operational cost patterns.
+## 🚛 Customer & Route Performance
+- Identify the highest-value customers contributing the largest share of revenue.
+- Compare revenue generated across different freight categories.
+- Analyze the most profitable transportation routes.
+- Compare high-revenue routes with high-volume routes to identify opportunities for improving profitability and route planning.
+- Monitor customer contribution and revenue distribution to support customer relationship management.
+## 🚚 Fleet Management
+- Monitor fleet availability and assets currently under maintenance.
+- Identify truck manufacturers with higher maintenance costs.
+- Track downtime across different maintenance activities.
+- Analyze quarterly fuel expenditure trends to support cost control.
+- Evaluate fleet age distribution to support asset replacement and fleet planning.
+## 👨‍✈️ Driver Operations
+- Evaluate driver productivity using revenue generated and trips completed.
+- Compare driver performance across different home terminals.
+- Identify high-performing drivers to support performance management and operational planning.
+- Monitor driver KPIs to improve workforce utilization.
+## 🚦 Delivery & Safety Operations
+- Monitor delivery performance through on-time and delayed deliveries.
+- Identify safety incident trends and operational risks.
+- Evaluate delivery efficiency across transportation routes.
+- Track service quality and operational reliability to support continuous improvement initiatives.
 
-* Which customers contribute the highest revenue?
-* Which freight categories generate the most business?
-* Which transportation routes are most profitable?
-* How is fuel spending changing over time?
-* Which truck manufacturers incur the highest maintenance costs?
-* How is the fleet distributed across model years?
-* Where are the biggest operational costs?
+Overall, the dashboard transforms operational data into actionable insights that help management improve profitability, optimize resources, reduce costs, and make informed business decisions.
 
 ---
 
@@ -126,8 +146,6 @@ The dashboards help answer key business questions such as:
 # 👥 Collaboration
 
 This project was completed in collaboration with Shubh Srivastava. We jointly worked on database preparation, SQL analysis, dashboard development, validation of business insights, and project documentation while taking ownership of different dashboard modules.
-
-This project was completed through a collaborative workflow, with responsibilities divided across different project modules while working together on the overall solution.
 
 Work Distribution
 - ✅ Processed and analyzed 500,000+ logistics records
