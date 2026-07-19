@@ -91,6 +91,7 @@ The dashboards help answer key business questions such as:
 │
 ├── Dashboard/
 │   ├──Supply_chain_logistics.pbix
+|   ├──demo_video
 │
 ├── SQL/
 │   ├── Executive Overview.sql
