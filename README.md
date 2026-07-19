@@ -138,25 +138,26 @@ Work Distribution
 - ✅ Prepared the final technical report and project documentation jointly
 - ✅ Performed dashboard testing, validation, and quality review together
 
-### 👩‍💻 My Contribution
-
-I was responsible for developing the Customer & Route Performance and Fleet Management pages, while also contributing to the Executive Overview.
-
 ---
 
 # 📈 Key DAX Measures
 
-Some of the measures I created during this project include:
+To support business reporting and dashboard interactivity, I developed several custom DAX measures, including:
 
-* Total Revenue
-* Gross Profit
-* Total Operating Cost
-* Average Revenue per Customer
-* Average Revenue per Load
-* Total Fleet Assets
-* Active Fleet Assets
-* Fleet Assets in Maintenance
-* Total Fuel Cost
-* Total Maintenance Cost
-* Fuel Cost % of Revenue
-* Maintenance Cost % of Revenue
+## Financial KPIs
+- Total Revenue
+- Gross Profit
+- Total Operating Cost
+- Fuel Cost % of Revenue
+- Maintenance Cost % of Revenue
+## Customer & Route Performance KPIs
+- Average Revenue per Customer
+- Average Revenue per Load
+## Fleet Management KPIs
+- Total Fleet Assets
+- Active Fleet Assets
+- Fleet Assets in Maintenance
+- Total Fuel Cost
+- Total Maintenance Cost
+
+These measures were used to build interactive KPI cards, support dashboard visualizations, and provide business users with meaningful operational and financial insights.
