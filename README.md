@@ -90,15 +90,17 @@ The dashboard enables stakeholders to monitor operational performance and answer
 - Analyze quarterly fuel expenditure trends to support cost control.
 - Evaluate fleet age distribution to support asset replacement and fleet planning.
 ## 👨‍✈️ Driver Operations
-- Evaluate driver productivity using revenue generated and trips completed.
-- Compare driver performance across different home terminals.
-- Identify high-performing drivers to support performance management and operational planning.
-- Monitor driver KPIs to improve workforce utilization.
+- Which drivers generate the highest revenue?
+- Which drivers complete the most trips?
+- How is driver revenue changing over time?
+- Which home terminals contribute the highest revenue?
+- Are drivers maintaining strong fuel efficiency and on-time delivery performance?
 ## 🚦 Delivery & Safety Operations
-- Monitor delivery performance through on-time and delayed deliveries.
-- Identify safety incident trends and operational risks.
-- Evaluate delivery efficiency across transportation routes.
-- Track service quality and operational reliability to support continuous improvement initiatives.
+- How many deliveries are completed across the network?
+- How is delivery volume changing over time?
+- Which routes handle the highest number of loads?
+- What percentage of deliveries are completed on time versus delayed?
+- What are the most common types of safety incidents, and where should improvement efforts be focused?
 
 Overall, the dashboard transforms operational data into actionable insights that help management improve profitability, optimize resources, reduce costs, and make informed business decisions.
 
